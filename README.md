@@ -7,7 +7,7 @@ Our group member: Haoyue Shi, Shengwen Yang, Yuyang He
 This directory includes original datasets, cleaned version datasets and the R script to clean the data.
 * The orginal dataset is from [this link](https://uwmadison.box.com/s/8864nymigxb3r4g2u2o5s74xspsutlrd).
 * Merge_Yelp_Data.ipynb: the ipython script to do the data cleaning.
-* Pizza_review.csv: the csv file we extracted for all pizza restaurants from the original data and merged business and review information saved in [this link] (https://uwmadison.box.com/s/hswuie092epzggiapbz65g4eakqk9cin)
+* Pizza_review.csv: the csv file we extracted for all pizza restaurants from the original data and merged business and review information saved in [this linke](https://uwmadison.box.com/s/hswuie092epzggiapbz65g4eakqk9cin) 
 
 # Preliminary Analysis
 This directory includes the script we used for our first sentiment analysis on the top-10 Pizza chain restaurants
