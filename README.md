@@ -1,5 +1,5 @@
 # STAT628_Module3_Group8
-This ReadMe file is for description for Module3 Group 8 of STAT 628 2021 Fall.
+This ReadMe file is for summarizing the contents of the repository and directions on how to use the code for Module3 Group 8 of STAT 628 2021 Fall.
 
 Our group member: Haoyue Shi, Shengwen Yang, Yuyang He
 
@@ -19,6 +19,8 @@ This directory includes the script we used for our first sentiment analysis on t
 # Exploratory Data Analysis
 This directory includes scripts that we used to analyze and give suggestions to PizzaHut.
 
+# Image Folder
+This directory includes any figures/images/tables produced in our analysis.
 
 # Shiny App 
 This directory includes the script to build the web-based shiny app based on the final result we got.
