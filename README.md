@@ -14,12 +14,13 @@ This directory includes the script we used for our first sentiment analysis on t
 * Top10_Pizaa_Analysis.ipynb: the ipython script to analyze setiment of reviews for the top-10 Pizza chain restaurants.
 * top10_sentiment_anlysis.xlsx: the xlsx file of the result of positive sentiment scores for the top-10 Pizza chain resaurants' three most frequently commented words.
 * Top10_compound_Score_Analysis.xlsx: the xlsx file of the result of compound sentiment scores for the top-10 Pizza chain resaurants' three most frequently commented words.
-* PizzaHut.csv: the csv file of all PizzaHut information for later analysis
+* PizzaHut.csv: the csv file of all PizzaHut information for later analysis.
 
 
 # Exploratory Data Analysis
 This directory includes scripts that we used to analyze and give suggestions to PizzaHut.
 * PizzaHut_Analysis.ipynb: the ipython script to give action plans for Pizza Hut restaurants.
+* hypothesis test.R: the R script to do t hypothesis test.
 
 # Image Folder
 This directory includes any figures/images/tables produced in our analysis.
@@ -34,4 +35,4 @@ This directory includes the script to build the web-based shiny app based on the
 
 # Summary and Presentation
 This directory includes the pdf file of our executive summary and presentation slide for this Yelp Sentiment Analysis.
-* Stats628Group8PreliminaryAnalysis.pptx: the powerpoint for our Preliminary Analysis
+* Stats628Group8PreliminaryAnalysis.pptx: the powerpoint for our Preliminary Analysis.
