@@ -17,17 +17,23 @@ This directory includes the script we used for our first sentiment analysis on t
 * PizzaHut.csv: the csv file of all PizzaHut information for later analysis.
 
 
+
 # Exploratory Data Analysis
 This directory includes scripts that we used to analyze and give suggestions to PizzaHut.
 * PizzaHut_Analysis.ipynb: the ipython script to give action plans for Pizza Hut restaurants.
+* Shiny_Data_Generator.ipynb: the ipython script to generate the data for shiny app.
 * hypothesis test.R: the R script to do t hypothesis test.
+* attribute.ipynb: the ipython script to extract attributes.
+* attribute_analysis.ipynb: the ipython script to analyze attributes.
+* shinydata.csv: the csv file of the input data for shiny app. 
+* tf_idf_sentiment_demo.ipynb: the ipython script to do the tf_idf and sentiment analysis.
 
 # Image Folder
 This directory includes any figures/images/tables produced in our analysis.
 * top_10chainPizzaRestaurantNames.png: Most Frequently commented words word cloud for top_10 pizza chain restaurants.
 * Low_star.png: Most Frequently commented words word cloud for low_star (stars <= 2.5) Pizza Hut restaurants.
 * High_star.png: Most Frequently commented words word cloud for high_star (stars > 2.5) Pizza Hut restaurants.
-* love.png, lowPizzaHut.png, love this.png, love the.png, likePizzaHut.png, hate.png, dislike.png: Word Trees started by those words for all reviews of Pizza Hut.
+* love.png, lowPizzaHut.png, love this.png, love the.png, likePizzaHut.png, hate.png, dislike.png, delivery time is.png, manager.png: Word Trees started by those words for all reviews of Pizza Hut.
 
 # Shiny App [this link](https://wangcongming95.shinyapps.io/PizzaHut/)
 This directory includes the script to build the web-based shiny app based on the final result we got.
@@ -36,4 +42,6 @@ This directory includes the script to build the web-based shiny app based on the
 
 # Summary and Presentation
 This directory includes the pdf file of our executive summary and presentation slide for this Yelp Sentiment Analysis.
-* Stats628Group8PreliminaryAnalysis.pptx: the powerpoint for our Preliminary Analysis.
+* Stats628Group8PreliminaryAnalysis.pptx: the pptx file for our Preliminary Analysis.
+* 628Module3Group8PPT.pdf: the pdf file for our final presentation.
+* 628Module3Grou8Summary.pdf: the pdf file for our final summary.
