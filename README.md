@@ -29,8 +29,9 @@ This directory includes any figures/images/tables produced in our analysis.
 * High_star.png: Most Frequently commented words word cloud for high_star (stars > 2.5) Pizza Hut restaurants.
 * love.png, lowPizzaHut.png, love this.png, love the.png, likePizzaHut.png, hate.png, dislike.png: Word Trees started by those words for all reviews of Pizza Hut.
 
-# Shiny App 
+# Shiny App [this link](https://wangcongming95.shinyapps.io/PizzaHut/)
 This directory includes the script to build the web-based shiny app based on the final result we got.
+* shiny.zip: the zip file to build our shiny website.
 
 
 # Summary and Presentation
